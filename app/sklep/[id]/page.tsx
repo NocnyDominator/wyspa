@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import BuyButton from "@/component/buy-button";
 
-const SHOP_ID = 5643;
+const SHOP_ID = 30831;
 
 interface ProductPrice {
     id: number;
