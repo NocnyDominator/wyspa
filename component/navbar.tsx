@@ -63,7 +63,7 @@ export default function Navbar() {
                     })}
                 </nav>
 
-                <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 flex justify-center">
+                <div className="absolute left-1/2 top-[82px] -translate-x-1/2 -translate-y-1/2 flex justify-center">
                     <Link href="/" className="">
                         <Image
                             src="/logo_main.png"
