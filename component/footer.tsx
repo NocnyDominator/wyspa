@@ -64,7 +64,7 @@ export default function Footer() {
             <div className="relative z-10 max-w-[1600px] mx-auto w-full px-6 flex flex-col lg:flex-row justify-between items-center gap-10">
                 <div className="flex flex-col items-center lg:items-start text-center lg:text-left w-full lg:w-auto">
                     <h2 className="text-white text-[32px] font-black uppercase tracking-tight mb-1">
-                        CHUNKY.PL
+                        WYSPA.GG
                     </h2>
                     <p className="text-[#888] font-medium text-[14px] mb-4">
                         © {new Date().getFullYear()} Wszelkie prawa zastrzeżone.
