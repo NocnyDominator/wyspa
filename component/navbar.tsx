@@ -8,7 +8,7 @@ import { useState, useEffect, useCallback } from "react";
 const navLinks = [
     { label: "Strona główna", href: "/", icon: "/3d.png", match: "/" },
     { label: "Sklep", href: "/#wybierz-tryb", icon: "/3d.png", match: "/sklep" },
-    { label: "Regulamin", href: "/#regulamin", icon: "/3d.png", match: "/regulamin" }
+    { label: "Regulamin", href: "/regulamin", icon: "/3d.png", match: "/regulamin" }
 ];
 
 const socialLinks = [
