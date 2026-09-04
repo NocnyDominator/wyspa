@@ -89,7 +89,7 @@ export default function Navbar() {
                                     src={social.icon}
                                     alt={social.alt}
                                     width={38}
-                                    height={38}
+                                    height={40}
                                     unoptimized
                                 />
                             </Link>
