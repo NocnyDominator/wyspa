@@ -11,7 +11,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-    title: "CHUNKY.PL",
+    title: "WYSPA.GG",
     description: "najlepszy serwis",
 };
 
