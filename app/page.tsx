@@ -23,7 +23,7 @@ interface RichestPlayerData {
 }
 
 
-const SHOP_ID = 5643;
+const SHOP_ID = 30831;
 
 async function getRichestPlayers(): Promise<RichestPlayerData[]> {
     try {
