@@ -12,7 +12,7 @@ const navLinks = [
 ];
 
 const socialLinks = [
-    { href: "https://discord.gg/", icon: "/social/discord_icon_bg.png", alt: "Discord" },
+    { href: "https://dc.wyspa.gg", icon: "/social/discord_icon_bg.png", alt: "Discord" },
     { href: "https://tiktok.com/", icon: "/social/tiktok_icon_bg.png", alt: "TikTok" },
     { href: "https://youtube.com/", icon: "/social/youtube_icon_bg.png", alt: "YouTube" },
 ];
