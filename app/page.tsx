@@ -141,7 +141,7 @@ export default async function Home() {
                     </button>
                 </div>
 
-                <div className="hidden md:flex absolute -right-[10%] md:-right-[12%] bottom-0 w-[120%] md:w-[1000px] h-[205%] pointer-events-none z-10 items-end">
+                <div className="hidden md:flex absolute right-4 lg:right-12 xl:right-20 bottom-0 w-[440px] lg:w-[500px] xl:w-[560px] h-[96%] lg:h-full pointer-events-none z-10 items-end justify-end">
                     <Image
                         src="/render.png"
                         alt="renderowski"
