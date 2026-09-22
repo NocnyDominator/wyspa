@@ -21,6 +21,17 @@ export default function RegulaminPage() {
                     </section>
 
                     <section className="mb-8">
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§1 Postanowienia ogólne i świadczenie usług</h2>
+                        <ol className="list-decimal pl-5 space-y-2 mb-3">
+                            <li>Wyspa i jej usługi działają na podstawie niniejszego regulaminu.</li>
+                            <li>Nieznajomość regulaminu nie zwalnia z jego przestrzegania. Korzystanie z usług sprawia, że automatycznie akceptujesz regulamin.</li>
+                            <li>Sklep umożliwia zakup wirtualnych przedmiotów i treści cyfrowych na serwerze gry komputerowej Minecraft. Zamówienia nie podlegają fizycznej wysyłce.</li>
+                            <li>Wymagania techniczne do korzystania z usług to posiadanie oryginalnej gry Minecraft oraz stabilnego połączenia z Internetem.</li>
+                            <li>Złożenie zamówienia polega na wyborze wirtualnego przedmiotu, podaniu nazwy użytkownika z gry oraz przejściu do płatności. Do zawarcia umowy dochodzi w momencie pozytywnego autoryzowania płatności.</li>
+                        </ol>
+                    </section>
+
+                    <section className="mb-8">
                         <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§3
 Zasady składania zamówień i realizacji usług</h2>
                         <p className="mb-3">1. Ceny wszystkich produktów widoczne w Serwisie są cenami brutto wyrażonymi w złotych polskich (PLN) i zawierają wszystkie obowiązujące podatki.</p>
