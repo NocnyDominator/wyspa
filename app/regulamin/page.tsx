@@ -184,7 +184,7 @@ export default function RegulaminPage() {
 
                             <li>
                                 Aktualny przelicznik vPLN wynosi:
-                                <strong> [UZUPEŁNIĆ – np. 1 PLN = X vPLN]</strong>.
+                                <strong>1 PLN = 1vPLN</strong>.
                             </li>
 
                             <li>
