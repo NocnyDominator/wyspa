@@ -47,32 +47,29 @@ export default function RegulaminPage() {
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§4 Reklamacje</h2>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§5
+Procedura reklamacyjna</h2>
                         <ol className="list-decimal pl-5 space-y-2">
-                            <li>Reklamacje związane ze świadczeniem usług elektronicznych można składać w przypadku, gdy przedmiot nie został dostarczony lub jest niezgodny z umową i opisem.</li>
-                            <li>Sprzedawca ponosi odpowiedzialność za brak zgodności treści cyfrowej z umową.</li>
-                            <li>Reklamacje należy składać poprzez wiadomość e-mail. W wiadomości należy podać nazwę użytkownika, adres e-mail użyty do zamówienia, nazwę usługi, metodę płatności oraz numer zamówienia.</li>
-                            <li>Rozpatrzenie reklamacji następuje niezwłocznie, maksymalnie w terminie 14 dni od jej otrzymania.</li>
+                            <li>Usługodawca ma obowiązek dostarczyć Treść Cyfrową zgodną z umową.</li>
+                            <li>W przypadku niewykonania lub nienależytego wykonania usługi (np. braku przyznania rangi, braku przedmiotu po zaksięgowaniu wpłaty), Klient ma prawo złożyć reklamację.</li>
+                            <li>Reklamacje należy zgłaszać na adres e-mail: nocnydominator@gmail.com.</li>
+                            <li>Usługodawca rozpatruje reklamację w terminie do 14 dni kalendarzowych od dnia jej doręczenia i przekazuje odpowiedź na adres e-mail Klienta.</li>
                         </ol>
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§5 Własność intelektualna</h2>
-                        <p className="mb-2">Wszystkie treści zamieszczone na WYSPA.GG korzystają z ochrony prawno-autorskiej.</p>
-                        <p>Jakiekolwiek wykorzystanie przez kogokolwiek, bez wyraźnej pisemnej zgody, elementów składających się na treść oraz zawartość serwisu stanowi naruszenie prawa autorskiego i skutkuje odpowiedzialnością prawną.</p>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§6 Ochrona danych osobowych i prywatność</h2>
+                        <p className="mb-2">1. Administratorem Danych Osobowych Usługobiorców jest Grażyna Spudzis.</p>
+                        <p>2. Dane osobowe (nick z gry, adres e-mail, adres IP, historia transakcji) przetwarzane są wyłącznie w celu realizacji zamówień, obsługi ewentualnych reklamacji oraz wypełnienia obowiązków podatkowo-księgowych.</p>
+                        <p>3. Dane nie są przekazywane podmiotom trzecim za wyjątkiem Operatora Płatności (Payments Solution Sp. z o.o.) w celu realizacji transakcji.</p>
+                        <p>4. Usługobiorca ma prawo dostępu do swoich danych, ich sprostowania, usunięcia, ograniczenia przetwarzania oraz wniesienia sprzeciwu. Wnioski należy kierować na adres: nocnydominator@gmail.com</p>
                     </section>
 
                     <section className="mb-8">
                         <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§7 Postanowienia końcowe</h2>
-                        <p className="mb-2">
-                            1. Umowy zawierane za pośrednictwem Serwisu podlegają prawu polskiemu. 
-                        </p>
-                        <p>
-                            2. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy Kodeksu Cywilnego, Ustawy o prawach konsumenta oraz Ustawy o świadczeniu usług drogą elektroniczną.
-                        </p>
-                        <p>
-                            3. Usługodawca zastrzega sobie prawo do zmiany Regulaminu z ważnych przyczyn (np. zmiana przepisów prawa, zmiana metod płatności). O zmianach Usługobiorcy zostaną poinformowani poprzez publikację nowej wersji na stronie WYSPA.GG.
-                        </p>
+                        <p className="mb-2"> 1. Umowy zawierane za pośrednictwem Serwisu podlegają prawu polskiemu. </p>
+                        <p>2. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy Kodeksu Cywilnego, Ustawy o prawach konsumenta oraz Ustawy o świadczeniu usług drogą elektroniczną.</p>
+                        <p>3. Usługodawca zastrzega sobie prawo do zmiany Regulaminu z ważnych przyczyn (np. zmiana przepisów prawa, zmiana metod płatności). O zmianach Usługobiorcy zostaną poinformowani poprzez publikację nowej wersji na stronie WYSPA.GG.</p>
                         <p>
                             4. Pełne dane kontaktowe Usługodawcy:
                             Grażyna Spudzis
