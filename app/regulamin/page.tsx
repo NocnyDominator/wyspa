@@ -5,7 +5,7 @@ export default function RegulaminPage() {
                 <h1 className="text-3xl md:text-4xl font-black text-[#1a1a1a] uppercase tracking-tight mb-2">
                     Regulamin
                 </h1>
-                <p className="text-[#666] font-medium mb-8">Z dnia: 23.04.2026</p>
+                <p className="text-[#666] font-medium mb-8">Z dnia: 22.09.2026</p>
 
                 <div className="p-8 md:p-12 leading-relaxed text-[#666]">
 
