@@ -27,8 +27,7 @@ Zasady składania zamówień i realizacji usług</h2>
                         <p>2. W celu złożenia zamówienia Usługobiorca wybiera produkt, podaje swój unikalny pseudonim (nick) z gry Minecraft, podaje adres e-mail, wybiera metodę płatności oraz akceptuje Regulamin wraz z Polityką Prywatności.</p>
                         <p>3. Dostępne metody płatności to: BLIK, Przelewy, PayPal.</p>
                         <p>4. Do realizacji płatności wykorzystywany jest system zewnętrzny operowany przez Payments Solution Sp. z o.o. (SimPay).</p>
-                        <p>5. W przypadku wystąpienia problemów z realizacją płatności elektronicznych, Klient może skontaktować się bezpośrednio z operatorem płatności SimPay za pośrednictwem strony kontaktowej: https://simpay.pl/kontakt <a
-</p>
+                        <p>5. W przypadku wystąpienia problemów z realizacją płatności elektronicznych, Klient może skontaktować się bezpośrednio z operatorem płatności SimPay za pośrednictwem strony kontaktowej: https://simpay.pl/kontakt</p>
                         <p>6. Realizacja zamówienia i dostarczenie Treści Cyfrowej następuje automatycznie w ciągu kilku minut od momentu zaksięgowania wpłaty w systemie Operatora Płatności. W przypadku awarii technicznych czas ten może ulec wydłużeniu do maksymalnie 24 godzin.</p>
                     </section>
 
