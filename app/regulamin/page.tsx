@@ -86,7 +86,7 @@ export default function RegulaminPage() {
                             </p>
                             <p>
                                 Adres: ul. Gałczyńskiego 5/15,
-                                <strong>12-200 Pisz</strong>
+                                <strong>UZUPEŁNIĆ</strong>
                             </p>
                             <p>
                                 E-mail: nocnydominator@gmail.com
