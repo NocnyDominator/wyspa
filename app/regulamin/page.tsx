@@ -73,7 +73,8 @@ Zasady składania zamówień i realizacji usług</h2>
                         <p>
                             4. Pełne dane kontaktowe Usługodawcy:</p>
                         <p>Grażyna Spudzis</p>
-                        <p>Adres siedziby: Gałczyńskiego 5/15</p>
+                        <p>Adres siedziby:Gałczyńskiego 5/15, 12-200 Pisz</p>
+                        <p>Numer kontaktowy: 518-525-091</p>
                         <p>E-mail kontaktowy: nocnydominator@gmail.com
                         </p>
                     </section>
