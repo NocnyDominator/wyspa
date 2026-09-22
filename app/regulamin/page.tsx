@@ -63,9 +63,10 @@ export default function RegulaminPage() {
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§6 Postanowienia końcowe</h2>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§7 Postanowienia końcowe</h2>
                         <p className="mb-2">
-                            Umowy zawierane za pośrednictwem strony podlegają prawu polskiemu. Sklep zastrzega sobie prawo do wprowadzania zmian w niniejszym regulaminie. W sprawach nieuregulowanych w niniejszym Regulaminie mają zastosowanie powszechnie obowiązujące przepisy prawa.
+                            1. Umowy zawierane za pośrednictwem Serwisu podlegają prawu polskiemu. 
+                            2. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy Kodeksu Cywilnego, Ustawy o prawach konsumenta oraz Ustawy o świadczeniu usług drogą elektroniczną.
                         </p>
                         <p>
                             Sprzedawcą, administratorem danych osobowych oraz podmiotem świadczącym usługi drogą elektroniczną w ramach serwisu jest Grażyna Spudzis ul. Gałczyńskiego 5/15. Kontakt we wszelkich sprawach związanych z funkcjonowaniem sklepu możliwy jest pod adresem e-mail nocnydominator@gmail.com.  Sprzedawca prowadzi działalność nierejestrowaną zgodnie z art. 5 ustawy Prawo przedsiębiorców. Sprzedawca nie jest płatnikiem podatku VAT.
