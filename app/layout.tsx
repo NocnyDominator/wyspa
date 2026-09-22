@@ -12,7 +12,7 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
     title: "WYSPA.GG",
-    description: "najlepszy serwis",
+    description: "Serwer minecraft!",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
