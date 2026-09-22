@@ -64,10 +64,10 @@ Procedura reklamacyjna</h2>
                         <p>2. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy Kodeksu Cywilnego, Ustawy o prawach konsumenta oraz Ustawy o świadczeniu usług drogą elektroniczną.</p>
                         <p>3. Usługodawca zastrzega sobie prawo do zmiany Regulaminu z ważnych przyczyn (np. zmiana przepisów prawa, zmiana metod płatności). O zmianach Usługobiorcy zostaną poinformowani poprzez publikację nowej wersji na stronie WYSPA.GG.</p>
                         <p>
-                            4. Pełne dane kontaktowe Usługodawcy:
-                            Grażyna Spudzis
-                            Adres siedziby: Gałczyńskiego 5/15
-                            E-mail kontaktowy: nocnydominator@gmail.com
+                            4. Pełne dane kontaktowe Usługodawcy:</p>
+                        <p>Grażyna Spudzis</p>
+                        <p>Adres siedziby: Gałczyńskiego 5/15</p>
+                        <p>E-mail kontaktowy: nocnydominator@gmail.com
                         </p>
                     </section>
 
