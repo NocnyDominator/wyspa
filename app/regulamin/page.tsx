@@ -21,13 +21,12 @@ export default function RegulaminPage() {
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§1 Postanowienia ogólne i świadczenie usług</h2>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§2 Postanowienia ogólne i warunki korzystania</h2>
                         <ol className="list-decimal pl-5 space-y-2 mb-3">
-                            <li>Wyspa i jej usługi działają na podstawie niniejszego regulaminu.</li>
-                            <li>Nieznajomość regulaminu nie zwalnia z jego przestrzegania. Korzystanie z usług sprawia, że automatycznie akceptujesz regulamin.</li>
-                            <li>Sklep umożliwia zakup wirtualnych przedmiotów i treści cyfrowych na serwerze gry komputerowej Minecraft. Zamówienia nie podlegają fizycznej wysyłce.</li>
-                            <li>Wymagania techniczne do korzystania z usług to posiadanie oryginalnej gry Minecraft oraz stabilnego połączenia z Internetem.</li>
-                            <li>Złożenie zamówienia polega na wyborze wirtualnego przedmiotu, podaniu nazwy użytkownika z gry oraz przejściu do płatności. Do zawarcia umowy dochodzi w momencie pozytywnego autoryzowania płatności.</li>
+                            <li>1. Właścicielem i administratorem Serwisu jest Usługodawca.</li>
+                            <li>2. Korzystanie z Serwisu wymaga spełnienia następujących wymagań technicznych: dostęp do sieci Internet, zainstalowana przeglądarka internetowa z obsługą JavaScript i plików cookies, posiadanie aktywnego konta e-mail oraz zainstalowana gra Minecraft.</li>
+                            <li>3. Usługobiorca zobowiązany jest do korzystania z Serwisu w sposób zgodny z prawem, dobrymi obyczajami oraz postanowieniami niniejszego Regulaminu. Zakazane jest dostarczanie treści o charakterze bezprawnym.</li>
+                            <li>4. Treści Cyfrowe i Usługi zakupywane w Serwisie służą wyłącznie do użytku w ramach serwera gry Minecraft powiązanego z Serwisem SKIMC.PL i nie stanowią oficjalnego produktu Mojang AB ani Microsoft.</li>
                         </ol>
                     </section>
 
@@ -38,7 +37,7 @@ Zasady składania zamówień i realizacji usług</h2>
                         <p>2. W celu złożenia zamówienia Usługobiorca wybiera produkt, podaje swój unikalny pseudonim (nick) z gry Minecraft, podaje adres e-mail, wybiera metodę płatności oraz akceptuje Regulamin wraz z Polityką Prywatności.</p>
                         <p>3. Dostępne metody płatności to: BLIK, Przelewy, PayPal.</p>
                         <p>4. Do realizacji płatności wykorzystywany jest system zewnętrzny operowany przez Payments Solution Sp. z o.o. (SimPay).</p>
-                        <p>5. W przypadku wystąpienia problemów z realizacją płatności elektronicznych, Klient może skontaktować się bezpośrednio z operatorem płatności SimPay za pośrednictwem strony kontaktowej: https://simpay.pl/kontakt</p>
+                        <p>5. W przypadku wystąpienia problemów z realizacją płatności elektronicznych, Klient może skontaktować się bezpośrednio z operatorem płatności SimPay za pośrednictwem strony kontaktowej: <a href="https://simpay.pl/kontakt>https://simpay.pl/kontakt</a></p>
                         <p>6. Realizacja zamówienia i dostarczenie Treści Cyfrowej następuje automatycznie w ciągu kilku minut od momentu zaksięgowania wpłaty w systemie Operatora Płatności. W przypadku awarii technicznych czas ten może ulec wydłużeniu do maksymalnie 24 godzin.</p>
                     </section>
 
