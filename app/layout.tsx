@@ -26,7 +26,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
 
         <div className="w-full bg-gradient-to-r from-[#008200] to-[#00aa00] text-white py-2.5 px-4 flex items-center justify-center gap-3 shadow-md z-50 relative shrink-0">
                     <span className="font-medium text-[14px] tracking-wide">
-    Legendarny Powrót serwera<span className="font-bold">WYSPA.GG</span> Niedługo start!</span>
+    Legendarny Powrót serwera<span className="font-bold">WYSPA.GG</span> Niedługo start!
                     </span>
         </div>
 
