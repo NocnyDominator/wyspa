@@ -58,7 +58,7 @@ export default function RegulaminPage() {
 
                     <section className="mb-8">
                         <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§5 Własność intelektualna</h2>
-                        <p className="mb-2">Wszystkie treści zamieszczone na CHUNKY.PL korzystają z ochrony prawno-autorskiej.</p>
+                        <p className="mb-2">Wszystkie treści zamieszczone na WYSPA.GG korzystają z ochrony prawno-autorskiej.</p>
                         <p>Jakiekolwiek wykorzystanie przez kogokolwiek, bez wyraźnej pisemnej zgody, elementów składających się na treść oraz zawartość serwisu stanowi naruszenie prawa autorskiego i skutkuje odpowiedzialnością prawną.</p>
                     </section>
 
