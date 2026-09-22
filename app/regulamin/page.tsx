@@ -21,28 +21,22 @@ export default function RegulaminPage() {
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§2 Płatności i realizacja zamówień</h2>
-                        <p className="mb-3">
-                            Za płatności odpowiada serwis SimPay.pl, należący do PAYMENTS SOLUTION SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, ul. Słoneczna 4, 06-212 Krasnosielc, Polska. NIP: 7571485069.
-                        </p>
-
-                        <h3 className="font-bold text-[#1a1a1a] mt-4 mb-2">Metody płatności dostępne w sklepie:</h3>
-                        <ul className="list-disc pl-5 space-y-1 mb-4">
-                            <li>Przelewy Online</li>
-                            <li>BLIK</li>
-                            <li>PayPal</li>
-                        </ul>
-
-                        <p className="mb-2">Termin płatności jest natychmiastowy. Po dokonaniu opłaty użytkownik automatycznie otrzymuje zakupioną usługę (treść cyfrową) na serwerze.</p>
-                        <p>Użytkownik dokonując płatności akceptuje niniejszy regulamin oraz regulaminy operatora płatności dostępne na stronie simpay.pl.</p>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§3
+Zasady składania zamówień i realizacji usług</h2>
+                        <p className="mb-3">1. Ceny wszystkich produktów widoczne w Serwisie są cenami brutto wyrażonymi w złotych polskich (PLN) i zawierają wszystkie obowiązujące podatki.</p>
+                        <p>2. W celu złożenia zamówienia Usługobiorca wybiera produkt, podaje swój unikalny pseudonim (nick) z gry Minecraft, podaje adres e-mail, wybiera metodę płatności oraz akceptuje Regulamin wraz z Polityką Prywatności.</p>
+                        <p>3. Dostępne metody płatności to: BLIK, Przelewy, PayPal.</p>
+                        <p>4. Do realizacji płatności wykorzystywany jest system zewnętrzny operowany przez Payments Solution Sp. z o.o. (SimPay).</p>
+                        <p>5. W przypadku wystąpienia problemów z realizacją płatności elektronicznych, Klient może skontaktować się bezpośrednio z operatorem płatności SimPay za pośrednictwem strony kontaktowej: https://simpay.pl/kontakt</p>
+                        <p>6. Realizacja zamówienia i dostarczenie Treści Cyfrowej następuje automatycznie w ciągu kilku minut od momentu zaksięgowania wpłaty w systemie Operatora Płatności. W przypadku awarii technicznych czas ten może ulec wydłużeniu do maksymalnie 24 godzin.</p>
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§3 Odstąpienie od umowy (Produkty cyfrowe)</h2>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§4
+Ochrona konsumenta i prawo do odstąpienia od umowy</h2>
                         <ul className="list-disc pl-5 space-y-2">
-                            <li>Wszystkie usługi oferowane w sklepie mają charakter treści cyfrowych, które nie są zapisane na nośniku materialnym.</li>
-                            <li>Z uwagi na natychmiastowe dostarczenie usługi, konsument wyraża zgodę na rozpoczęcie dostarczania treści cyfrowej przed upływem 14 dni na odstąpienie od umowy.</li>
-                            <li>W związku z powyższym, kupujący przyjmuje do wiadomości i akceptuje utratę prawa do odstąpienia od umowy po dostarczeniu wirtualnego przedmiotu na serwerze.</li>
+                            <li>Zgodnie z art. 38 pkt 13 Ustawy z dnia 30 maja 2014 r. o prawach konsumenta, prawo do odstąpienia od umowy zawartej na odległość NIE przysługuje Konsumentowi w odniesieniu do umów o dostarczanie treści cyfrowych niedostarczanych na nośniku materialnym, jeżeli spełnianie świadczenia rozpoczęło się za wyraźną i uprzednią zgodą Konsumenta przed upływem terminu do odstąpienia od umowy i po poinformowaniu go przez przedsiębiorcę o utracie prawa do odstąpienia od umowy.</li>
+                            <li>Usługobiorca dokonując zakupu i zaznaczając odpowiednie pole (checkbox) w procesie zakupowym, wyraża zgodę na natychmiastowe rozpoczęcie świadczenia usługi (dostarczenie przedmiotu/rangi w grze) przed upływem 14-dniowego terminu do odstąpienia od umowy i przyjmuje do wiadomości utratę tego prawa.</li>
                         </ul>
                     </section>
 
