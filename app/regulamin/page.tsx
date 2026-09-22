@@ -19,7 +19,15 @@ export default function RegulaminPage() {
                             <li>Złożenie zamówienia polega na wyborze wirtualnego przedmiotu, podaniu nazwy użytkownika z gry oraz przejściu do płatności. Do zawarcia umowy dochodzi w momencie pozytywnego autoryzowania płatności.</li>
                         </ol>
                     </section>
-
+                    
+                    <section className="mb-8">
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§2 Postanowienia ogólne i warunki korzystania</h2>
+                            <p>1. Właścicielem i administratorem Serwisu jest Usługodawca.</p>
+                            <p>2. Korzystanie z Serwisu wymaga spełnienia następujących wymagań technicznych: dostęp do sieci Internet, zainstalowana przeglądarka internetowa z obsługą JavaScript i plików cookies, posiadanie aktywnego konta e-mail oraz zainstalowana gra Minecraft.</p>
+                            <p>3. Usługobiorca zobowiązany jest do korzystania z Serwisu w sposób zgodny z prawem, dobrymi obyczajami oraz postanowieniami niniejszego Regulaminu. Zakazane jest dostarczanie treści o charakterze bezprawnym.</p>
+                            <p>4. Treści Cyfrowe i Usługi zakupywane w Serwisie służą wyłącznie do użytku w ramach serwera gry Minecraft powiązanego z Serwisem WYSPA.GG i nie stanowią oficjalnego produktu Mojang AB ani Microsoft.</p>
+                    </section>
+                    
                     <section className="mb-8">
                         <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§3
 Zasady składania zamówień i realizacji usług</h2>
