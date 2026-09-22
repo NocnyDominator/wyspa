@@ -22,12 +22,10 @@ export default function RegulaminPage() {
 
                     <section className="mb-8">
                         <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§2 Postanowienia ogólne i warunki korzystania</h2>
-                        <ol className="list-decimal pl-5 space-y-2 mb-3">
-                            <li>1. Właścicielem i administratorem Serwisu jest Usługodawca.</li>
-                            <li>2. Korzystanie z Serwisu wymaga spełnienia następujących wymagań technicznych: dostęp do sieci Internet, zainstalowana przeglądarka internetowa z obsługą JavaScript i plików cookies, posiadanie aktywnego konta e-mail oraz zainstalowana gra Minecraft.</li>
-                            <li>3. Usługobiorca zobowiązany jest do korzystania z Serwisu w sposób zgodny z prawem, dobrymi obyczajami oraz postanowieniami niniejszego Regulaminu. Zakazane jest dostarczanie treści o charakterze bezprawnym.</li>
-                            <li>4. Treści Cyfrowe i Usługi zakupywane w Serwisie służą wyłącznie do użytku w ramach serwera gry Minecraft powiązanego z Serwisem SKIMC.PL i nie stanowią oficjalnego produktu Mojang AB ani Microsoft.</li>
-                        </ol>
+                            <p>1. Właścicielem i administratorem Serwisu jest Usługodawca.</p>
+                            <p>2. Korzystanie z Serwisu wymaga spełnienia następujących wymagań technicznych: dostęp do sieci Internet, zainstalowana przeglądarka internetowa z obsługą JavaScript i plików cookies, posiadanie aktywnego konta e-mail oraz zainstalowana gra Minecraft.</p>
+                            <p>3. Usługobiorca zobowiązany jest do korzystania z Serwisu w sposób zgodny z prawem, dobrymi obyczajami oraz postanowieniami niniejszego Regulaminu. Zakazane jest dostarczanie treści o charakterze bezprawnym.</p>
+                            <p>4. Treści Cyfrowe i Usługi zakupywane w Serwisie służą wyłącznie do użytku w ramach serwera gry Minecraft powiązanego z Serwisem WYSPA.GG i nie stanowią oficjalnego produktu Mojang AB ani Microsoft.</p>
                     </section>
 
                     <section className="mb-8">
