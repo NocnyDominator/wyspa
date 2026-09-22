@@ -40,8 +40,7 @@ Zasady składania zamówień i realizacji usług</h2>
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§5
-Procedura reklamacyjna</h2>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§5 Procedura reklamacyjna</h2>
                         <ol className="list-decimal pl-5 space-y-2">
                             <li>Usługodawca ma obowiązek dostarczyć Treść Cyfrową zgodną z umową.</li>
                             <li>W przypadku niewykonania lub nienależytego wykonania usługi (np. braku przyznania rangi, braku przedmiotu po zaksięgowaniu wpłaty), Klient ma prawo złożyć reklamację.</li>
