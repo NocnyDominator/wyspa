@@ -12,7 +12,7 @@ export default function RegulaminPage() {
                     <section className="mb-8">
                         <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§1 Postanowienia ogólne i świadczenie usług</h2>
                         <ol className="list-decimal pl-5 space-y-2 mb-3">
-                            <li>Chunky i jej usługi działają na podstawie niniejszego regulaminu.</li>
+                            <li>Wyspa i jej usługi działają na podstawie niniejszego regulaminu.</li>
                             <li>Nieznajomość regulaminu nie zwalnia z jego przestrzegania. Korzystanie z usług sprawia, że automatycznie akceptujesz regulamin.</li>
                             <li>Sklep umożliwia zakup wirtualnych przedmiotów i treści cyfrowych na serwerze gry komputerowej Minecraft. Zamówienia nie podlegają fizycznej wysyłce.</li>
                             <li>Wymagania techniczne do korzystania z usług to posiadanie oryginalnej gry Minecraft oraz stabilnego połączenia z Internetem.</li>
