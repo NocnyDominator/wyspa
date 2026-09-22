@@ -68,7 +68,7 @@ export default function RegulaminPage() {
                             Umowy zawierane za pośrednictwem strony podlegają prawu polskiemu. Sklep zastrzega sobie prawo do wprowadzania zmian w niniejszym regulaminie. W sprawach nieuregulowanych w niniejszym Regulaminie mają zastosowanie powszechnie obowiązujące przepisy prawa.
                         </p>
                         <p>
-                            Sprzedawcą, administratorem danych osobowych oraz podmiotem świadczącym usługi drogą elektroniczną w ramach serwisu jest Grażyna Spudzis. Kontakt we wszelkich sprawach związanych z funkcjonowaniem sklepu możliwy jest pod adresem e-mail nocnydominator@gmail.com.
+                            Sprzedawcą, administratorem danych osobowych oraz podmiotem świadczącym usługi drogą elektroniczną w ramach serwisu jest Grażyna Spudzis ul. Gałczyńskiego 5/15. Kontakt we wszelkich sprawach związanych z funkcjonowaniem sklepu możliwy jest pod adresem e-mail nocnydominator@gmail.com.  Sprzedawca prowadzi działalność nierejestrowaną zgodnie z art. 5 ustawy Prawo przedsiębiorców. Sprzedawca nie jest płatnikiem podatku VAT.
                         </p>
                     </section>
 
