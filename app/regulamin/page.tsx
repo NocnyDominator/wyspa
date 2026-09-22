@@ -32,8 +32,7 @@ Zasady składania zamówień i realizacji usług</h2>
                     </section>
 
                     <section className="mb-8">
-                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§4
-Ochrona konsumenta i prawo do odstąpienia od umowy</h2>
+                        <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§4 Ochrona konsumenta i prawo do odstąpienia od umowy</h2>
                         <ul className="list-disc pl-5 space-y-2">
                             <li>Zgodnie z art. 38 pkt 13 Ustawy z dnia 30 maja 2014 r. o prawach konsumenta, prawo do odstąpienia od umowy zawartej na odległość NIE przysługuje Konsumentowi w odniesieniu do umów o dostarczanie treści cyfrowych niedostarczanych na nośniku materialnym, jeżeli spełnianie świadczenia rozpoczęło się za wyraźną i uprzednią zgodą Konsumenta przed upływem terminu do odstąpienia od umowy i po poinformowaniu go przez przedsiębiorcę o utracie prawa do odstąpienia od umowy.</li>
                             <li>Usługobiorca dokonując zakupu i zaznaczając odpowiednie pole (checkbox) w procesie zakupowym, wyraża zgodę na natychmiastowe rozpoczęcie świadczenia usługi (dostarczenie przedmiotu/rangi w grze) przed upływem 14-dniowego terminu do odstąpienia od umowy i przyjmuje do wiadomości utratę tego prawa.</li>
