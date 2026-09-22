@@ -66,6 +66,8 @@ export default function RegulaminPage() {
                         <h2 className="font-black text-xl text-[#1a1a1a] uppercase mb-3">§7 Postanowienia końcowe</h2>
                         <p className="mb-2">
                             1. Umowy zawierane za pośrednictwem Serwisu podlegają prawu polskiemu. 
+                        </p>
+                        <p>
                             2. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy Kodeksu Cywilnego, Ustawy o prawach konsumenta oraz Ustawy o świadczeniu usług drogą elektroniczną.
                         </p>
                         <p>
