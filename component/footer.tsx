@@ -78,9 +78,6 @@ export default function Footer() {
                         <Link href="/regulamin" className="text-[#aaa] hover:text-[#00aa00] transition-colors font-bold text-[14px]">
                             Regulamin
                         </Link>
-                        <Link href="/polityka-prywatnosci" className="text-[#aaa] hover:text-[#00aa00] transition-colors font-bold text-[14px]">
-                            Polityka prywatności
-                        </Link>
                     </div>
                 </div>
 
