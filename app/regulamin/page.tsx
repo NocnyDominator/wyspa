@@ -71,7 +71,13 @@ export default function RegulaminPage() {
                             2. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy Kodeksu Cywilnego, Ustawy o prawach konsumenta oraz Ustawy o świadczeniu usług drogą elektroniczną.
                         </p>
                         <p>
-                            Sprzedawcą, administratorem danych osobowych oraz podmiotem świadczącym usługi drogą elektroniczną w ramach serwisu jest Grażyna Spudzis ul. Gałczyńskiego 5/15. Kontakt we wszelkich sprawach związanych z funkcjonowaniem sklepu możliwy jest pod adresem e-mail nocnydominator@gmail.com.  Sprzedawca prowadzi działalność nierejestrowaną zgodnie z art. 5 ustawy Prawo przedsiębiorców. Sprzedawca nie jest płatnikiem podatku VAT.
+                            3. Usługodawca zastrzega sobie prawo do zmiany Regulaminu z ważnych przyczyn (np. zmiana przepisów prawa, zmiana metod płatności). O zmianach Usługobiorcy zostaną poinformowani poprzez publikację nowej wersji na stronie WYSPA.GG.
+                        </p>
+                        <p>
+                            4. Pełne dane kontaktowe Usługodawcy:
+                            Grażyna Spudzis
+                            Adres siedziby: Gałczyńskiego 5/15
+                            E-mail kontaktowy: nocnydominator@gmail.com
                         </p>
                     </section>
 
