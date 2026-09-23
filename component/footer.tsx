@@ -4,7 +4,7 @@ import Link from "next/link";
 function DiscordTile() {
     return (
         <Link
-            href="https://discord.com/invite/syjCfnEb3t"
+            href="https://discord.gg/nCEgBUW4vj"
             className="relative flex w-[380px] h-[190px] overflow-hidden rounded-[20px] bg-[#6C5CE7] p-6 shrink-0"
         >
             <div className="absolute top-4 right-4 text-white opacity-60 z-20">
