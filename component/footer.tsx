@@ -30,7 +30,7 @@ function DiscordTile() {
                         <Image src="/head/2.png" width={20} height={20} alt="A2" className="rounded-full border-[1.5px] border-[#8a7df0]" unoptimized />
                         <Image src="/head/3.png" width={20} height={20} alt="A3" className="rounded-full border-[1.5px] border-[#8a7df0]" unoptimized />
                     </div>
-                    <span className="font-bold text-[13px] leading-none mt-0.5">5000+</span>
+                    <span className="font-bold text-[13px] leading-none mt-0.5">100+</span>
                 </div>
             </div>
 
